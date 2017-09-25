@@ -30,6 +30,7 @@ Usage
 
 ### Build/Compile Dependency ###
 * react-scripts
+* yarn
 
 ### Test Dependency (node modules) ###
 * jest
