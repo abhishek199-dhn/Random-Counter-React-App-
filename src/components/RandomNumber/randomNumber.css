@@ -1,0 +1,14 @@
+.random-number-wrapper {
+    background-color: #512da8;
+    text-align: center;
+    position: relative;
+    height: 100%;
+}
+
+.random-number-wrapper .random-number-view {
+    position: absolute;
+    top: calc(50% - 50px);
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
